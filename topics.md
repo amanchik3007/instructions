@@ -23,8 +23,8 @@
 <li>
 <p><strong>Создание группы с топиками для обработки</strong></p>
 <p>Создайте группу телеграмм и в ее настройках включите ползунок топиков (тем). Таким образом группа будет адаптирована под нашу систему.</p></li></ol>
-<p /><ac:image ac:align="center" ac:layout="center" ac:original-height="443" ac:original-width="269" ac:custom-width="true" ac:alt="image-20240425-200612.png" ac:width="197"><ri:attachment ri:filename="image-20240425-200612.png" ri:version-at-save="1" /></ac:image><ac:image ac:align="center" ac:layout="center" ac:original-height="740" ac:original-width="950" ac:custom-width="true" ac:alt="image-20240425-200704.png" ac:width="370"><ri:attachment ri:filename="image-20240425-200704.png" ri:version-at-save="1" /></ac:image>
-<p />
+<p/><ac:image ac:align="center" ac:layout="center" ac:original-height="443" ac:original-width="269" ac:custom-width="true" ac:alt="image-20240425-200612.png" ac:width="197"><ri:attachment ri:filename="image-20240425-200612.png" ri:version-at-save="1" /></ac:image><ac:image ac:align="center" ac:layout="center" ac:original-height="740" ac:original-width="950" ac:custom-width="true" ac:alt="image-20240425-200704.png" ac:width="370"><ri:attachment ri:filename="image-20240425-200704.png" ri:version-at-save="1" /></ac:image>
+<p/>
 <ol start="2">
 <li>
 <p><strong>Создание Telegram бота</strong></p>
